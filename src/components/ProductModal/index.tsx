@@ -1,5 +1,4 @@
 import { FlatList, Modal } from 'react-native';
-import { products } from '../../mocks/products';
 import { Product } from '../../types/Product';
 import { formatCurrency } from '../../utils/formatCurrency';
 import { Button } from '../Button';
